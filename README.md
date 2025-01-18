@@ -27,12 +27,6 @@ stephtacular@github:~$ ./welcome.sh
                 ||----w |
                 ||     ||
 ```
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/stephaniephahn) <be>
-
-</details>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=600px title="Hi, nice to meet you!">
