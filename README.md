@@ -20,33 +20,13 @@ stephtacular@github:~$ ./welcome.sh
 ```
  _____________________________________
 < Welcome to my personal github page! >
- ------------------------------------- 
-          \   
-           \
-              ,-.
-             /  (  '
-     *  _.--'!   '--._
-      ,'              ''.
-'    |!                   \
-   _.'  O      ___       ! \
-  (_.-^, __..-'  ''''--.   )
-      /,'        '    _.' /
-   '         *    .-''    |
-                 (..--^.  ' 
-                       | /
-                       '
+ -------------------------------------
+    \
+      \
+        /\_/\  
+       ( o.o ) 
+        > ^ <
 ```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=600px title="Hi, nice to meet you!">
-</p>
+![giphy](https://github.com/user-attachments/assets/3a51ba41-12d9-4365-a914-997278698db1)
 
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
