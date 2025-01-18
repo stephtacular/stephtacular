@@ -27,3 +27,6 @@ stephtacular@github:~$ ./welcome.sh
                 ||----w |
                 ||     ||
 ```
+<p align="center">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=600px title="Hi, nice to meet you!">
+</p>
