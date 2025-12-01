@@ -23,7 +23,7 @@ stephtacular@github:~$ sudo apt-get install creativity
 ```
 ## 📁 Portfolio
 Check out my project portfolio here:  
-👉 https://github.com/stephtacular/project-portfolio
+👉 https://github.com/stephtacular/stephanie-portfolio
 
 ---
 
