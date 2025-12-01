@@ -15,3 +15,11 @@ stephtacular@github:~$ ./welcome.sh
 
 ![giphy](https://github.com/user-attachments/assets/3a51ba41-12d9-4365-a914-997278698db1)
 
+```console
+stephtacular@github:~$ whoami
+> Stephanie Hahn — Cybersecurity Professional | Software Engineering Student at WGU (Java Track)
+stephtacular@github:~$ sudo apt-get install creativity
+> installing... done! ✨
+```
+Thanks for visiting!  
+This repo is guarded by a very serious cat. 🐈‍⬛  
