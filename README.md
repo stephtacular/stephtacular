@@ -13,7 +13,7 @@ stephtacular@github:~$ ./welcome.sh
         > ^ <
 ```
 
-![giphy](https://github.com/user-attachments/assets/3a51ba41-12d9-4365-a914-997278698db1)
+<img src="https://github.com/user-attachments/assets/3a51ba41-12d9-4365-a914-997278698db1" width="250">
 
 ```console
 stephtacular@github:~$ whoami
