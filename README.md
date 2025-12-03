@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/stephtacular/stephtacular/main/octocat.png" width="350"> </p> 
+
 ```console
 stephtacular@github:~$ ./welcome.sh
 ```
@@ -12,7 +14,6 @@ stephtacular@github:~$ ./welcome.sh
        ( o.o ) 
         > ^ <
 ```
-
 <img src="https://github.com/user-attachments/assets/3a51ba41-12d9-4365-a914-997278698db1" width="250">
 
 ```console
